@@ -1,5 +1,5 @@
-*.graphml
 __pycache__/
 venv/
 .venv/
 cache/
+.idea/
